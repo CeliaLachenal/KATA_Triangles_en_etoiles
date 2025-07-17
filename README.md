@@ -15,6 +15,10 @@ Si la fonction est appelée avec le paramètre 4 :
 generateTriangle(4);
 Le résultat affiché dans la console sera :
 
-#\* #**
-#\***
-#\*\*\*\*
+# \*
+
+# \*\*
+
+# \*\*\*
+
+# \*\*\*\*
